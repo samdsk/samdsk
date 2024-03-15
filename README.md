@@ -11,8 +11,10 @@ class Developer {
   }
 }
 ```
- [Personal website](https://samdsk.github.io/) | [Blog](https://smds91.wordpress.com/)
+
 <!--
+
+[Personal website](https://samdsk.github.io/) | [Blog](https://smds91.wordpress.com/)
 ## Featured Projects
 
 <a href="https://github.com/samdsk/lab-pwm-twitter-analytics">
