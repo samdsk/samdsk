@@ -11,9 +11,7 @@ class Developer {
   }
 }
 ```
-## WWW
-* Personal website [https://samdsk.github.io/](https://samdsk.github.io/)
-* Blog [https://smds91.wordpress.com/](https://smds91.wordpress.com/)
+ [Personal website](https://samdsk.github.io/) | [Blog](https://smds91.wordpress.com/)
 <!--
 ## Featured Projects
 
