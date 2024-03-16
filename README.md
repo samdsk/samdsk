@@ -13,7 +13,6 @@ class Developer {
 ```
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/samdsk/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1384126/sam)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=samdsk.samdsk)
 <!--
