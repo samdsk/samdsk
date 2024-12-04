@@ -4,7 +4,7 @@
 class Developer {
   private final String name = "Sam. K.";
   private final String from = "ITA";
-  private final String skills = {"Java", "Python", "Erlang", "C", "JS"};
+  private final String skills = {"0xCAFEBABE", "Python", "Erlang", "C", "JS"};
 
   public void greetings(){
     System.out.println("Hi, thanks for dropping by 😊");
